@@ -17,9 +17,9 @@ More information at [lumacoin.org](http://www.lumacoin.org)
 
 ### Block Details
 <table>
-<tr><td>Proof Of Work</td><td></td>CPU/Mobile Mining!</tr>
-<tr><td>Proof of Stake</td><td></td>7,5% annually</tr>
-<tr><td>Masternode</td><td></td>MN Requirement 50.000 LUMA</tr>
+<tr><td>Proof Of Work</td><td>CPU & Mobile Mining only</td></tr>
+<tr><td>Proof of Stake</td><td>7,5% - 5% - 2,5% annually</td></tr>
+<tr><td>Masternode</td><td>MN Requirement 50.000 LUMA</td></tr>
 <tr><td>Wallet Staking</td><td>Yes</td></tr>
 </table>
 
